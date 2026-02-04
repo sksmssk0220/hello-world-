@@ -6,7 +6,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         // Log a massage to the console when the GameManager starts
-        Debug.Log("GameManager has started");
     }
 
     // Update is called once per frame
